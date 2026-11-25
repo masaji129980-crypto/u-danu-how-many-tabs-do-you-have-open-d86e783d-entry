@@ -28,3 +28,10 @@ absent).
 ## Note
 
 This repository is a make.fun bounty entry.
+
+## On make.fun
+
+![make.fun bounty](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)
+![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/masaji129980-crypto/u-danu-how-many-tabs-do-you-have-open-d86e783d-entry/rank.svg)
+![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/masaji129980-crypto/u-danu-how-many-tabs-do-you-have-open-d86e783d-entry/reward.svg)
+[Bounty page](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
